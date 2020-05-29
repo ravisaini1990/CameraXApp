@@ -1,6 +1,7 @@
 # CameraXApp
 CameraX for image preview and capture.
 
-#Requirement :
+# Requirement :
 MinSDK 21
+
 Java 8
